@@ -26,7 +26,7 @@ Before you begin, ensure you have the following:
 1. **Clone or download this repository**
 
 ```bash
-git clone https://github.com/Saon110/Weather_Agentic_Ai
+git clone https://github.com/EnayetAlvee/Weather_Ai_agent.git
 ```
 
 2. **Install the required python packages**
@@ -44,7 +44,7 @@ OPENWEATHERMAP_API_KEY=your_openweathermap_api_key_here
 
 4. **Run the python file**
 ```bash
-streamlit run test.py
+streamlit run weather.py
 ```
 
 Once running, the assistant will open in browser where user can give weather related prompts
